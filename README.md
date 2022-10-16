@@ -13,7 +13,7 @@ node index.js
 
 ## Index custom fields
 
-Custom fields appear to already be searchable but maybe indexing them makes results faster?
+Custom fields are searchable but indexing them makes getting results faster
 
 https://cloud.google.com/logging/docs/analyze/custom-index
 
