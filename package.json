@@ -1,0 +1,11 @@
+{
+  "name": "cloud-logging-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "dadonk.com",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/logging": "^10.1.10"
+  }
+}
